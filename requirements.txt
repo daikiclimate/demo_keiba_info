@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dotenv
+black
+isort
+beautifulsoup4
